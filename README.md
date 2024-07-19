@@ -9,7 +9,7 @@ tg: @fuckins996
 Build?
 1. config proxy on project
 2. config libz library, i build it on win10,and dll in /bin
-3. build dir cmd/ins_litexxxxx 
+3. build dir cmd/ins_litexxxxx , go.exe build -o /bin/ins_litexxxxxxxxx ./cmd/ins_litexxxxxxxxxxxxxxx, or u use goland 
 4. put the file on /bin
 5. set working dir: /bin
 
