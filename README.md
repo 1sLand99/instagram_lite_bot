@@ -13,6 +13,9 @@ Build?
 4. put the file on /bin
 5. set working dir: /bin
 
+undefined zstream?
+
+install mingw64/cgo 
 
 --------------Dot Not Ask Me-------------- 
 
